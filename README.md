@@ -6,3 +6,6 @@
   </a>
 </p><img src="seatcoverinstructions.jpg" width="100%">
 <!--<embed src="seatcoverinstructions.pdf" type="application/pdf" width="100%" height="700px">-->
+Questions/Support: [morayseatcovers@gmail.com](mailto:morayseatcovers@gmail.com)
+For support, email [morayseatcovers@gmail.com](mailto:morayseatcovers@gmail.com)
+For support, email <morayseatcovers@gmail.com>
