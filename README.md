@@ -1,12 +1,20 @@
-<h1 align="center" style="font-family: Copperplate, 'Copperplate Gothic Light', serif;">
-  Moray Designs
-</h1>
-<h2>Instructions</h2>
-<p align="center">
-  <a href="https://www.youtube.com/shorts/rqo3k292vPU" target="_blank">
-    Watch the Instruction Video
-  </a>
-</p><img src="seatcoverinstructions.jpg" width="100%">
-<!--<embed src="seatcoverinstructions.pdf" type="application/pdf" width="100%" height="700px">-->
-Questions/Support, email: [morayseatcovers@gmail.com](mailto:morayseatcovers@gmail.com)
+# Moray Designs
 
+This repository hosts the website for **Moray Designs**.
+
+🌐 **Live site:** https://moraydesigns.com
+
+## Structure
+
+- `index.html` — Main website (served by GitHub Pages)
+- `assets/` — Images, PDFs, and other static files
+- `CNAME` — Custom domain configuration
+
+## Support
+
+For questions or support, email  
+[morayseatcovers@gmail.com](mailto:morayseatcovers@gmail.com)
+
+## Deployment
+
+This site is deployed using **GitHub Pages** from the `main` branch.
