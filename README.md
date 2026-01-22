@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: Copperplate, 'Copperplate Gothic Light', serif;">
   Moray Designs
-<!-- '</h1>
-'# moraydesigns -->
+</h1>
+<!-- '# moraydesigns -->
 <h2>Instructions</h2>
 <p align="center">
   <a href="https://www.youtube.com/shorts/rqo3k292vPU" target="_blank">
